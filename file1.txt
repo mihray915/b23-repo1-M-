@@ -1,1 +1,7 @@
 B23 Learning Git
+yay we made first commit 
+commit is almost like taking a picture
+of the changes at certain moment compared
+to previous
+it contain the changes you made
+and the author the changes
